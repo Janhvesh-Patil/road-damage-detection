@@ -133,4 +133,7 @@ Dependencies:
 
 ## Authors
 
-This project was developed collaboratively as part of a hackathon submission.
+## Authors
+
+- Kajal Jain
+- Janhvesh Patil
