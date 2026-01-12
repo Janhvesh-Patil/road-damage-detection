@@ -133,7 +133,5 @@ Dependencies:
 
 ## Authors
 
-## Authors
-
 - Kajal Jain
 - Janhvesh Patil
