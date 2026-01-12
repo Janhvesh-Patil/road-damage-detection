@@ -99,13 +99,13 @@ Fallback predictions are generated for images where no detection is produced, en
 
 ## Repository Structure
 
-road-damage-detection/
-├── inference.py
-├── train.ipynb
-├── data.yaml
-├── requirements.txt
-├── README.md
-└── .gitignore
+road-damage-detection/<br>
+├── inference.py<br>
+├── train.ipynb<br>
+├── data.yaml<br>
+├── requirements.txt<br>
+├── README.md<br>
+└── .gitignore<br>
 
 
 ---
