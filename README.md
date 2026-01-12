@@ -33,13 +33,13 @@ Key characteristics:
 
 The dataset is expected to follow the standard YOLO directory format:
 
-dataset/ <br>
-├── train/
-│ ├── images/
-│ └── labels/
-├── val/
-│ ├── images/
-│ └── labels/
+dataset/<br>
+├── train/<br>
+│ ├── images/<br>
+│ └── labels/<br>
+├── val/<br>
+│ ├── images/<br>
+│ └── labels/<br>
 
 
 The dataset is **not included** in this repository and must be placed manually in the above structure before training.
