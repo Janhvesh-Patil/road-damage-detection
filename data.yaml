@@ -1,0 +1,10 @@
+path: ./dataset
+train: train/images
+val: val/images
+
+names:
+  0: Longitudinal crack
+  1: Transverse crack
+  2: Alligator crack
+  3: Other corruption
+  4: Pothole
