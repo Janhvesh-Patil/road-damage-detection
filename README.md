@@ -33,7 +33,7 @@ Key characteristics:
 
 The dataset is expected to follow the standard YOLO directory format:
 
-dataset/
+dataset/ <br>
 ├── train/
 │ ├── images/
 │ └── labels/
